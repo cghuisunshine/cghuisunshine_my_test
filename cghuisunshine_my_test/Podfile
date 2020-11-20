@@ -1,0 +1,14 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'cghuisunshine_my_test' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for cghuisunshine_my_test
+
+  target 'cghuisunshine_my_testTests' do
+    # Pods for testing
+  end
+
+end
